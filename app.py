@@ -8,7 +8,7 @@ from PIL import Image, ImageDraw, ImageFont, ImageOps
 # ---------------- SETTINGS (you can change these) ----------------
 # If you get a "model not found" error later, open Google AI Studio,
 # look at the current model names, and paste a valid one here.
-MODEL_NAME = "gemini-2.5-flash"
+MODEL_NAME = "gemini-3.8-flash"
 
 CAPTION_STYLE = "short, formal, suitable for a college presentation"
 NUMBER_OF_CAPTIONS = 5
